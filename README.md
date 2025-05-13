@@ -1,3 +1,8 @@
+
+#solucion del problema 
+#martes 13 de mayo 2025
+
+
 const nombres: string[] = ['Hugo', 'Paco', 'Luis', 'Pedro', 'Hector'];
 const edades: number[] = [35, 50, 40, 18, 30];
 
